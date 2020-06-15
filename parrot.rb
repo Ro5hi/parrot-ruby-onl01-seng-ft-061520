@@ -10,8 +10,8 @@ def parrot
   return "Squawk!"
 end
 
-def parrot(phrase = "Pretty bird!")
-  parrot = "Pretty bird!"
-  return "Pretty bird!"
+def phrase("Pretty bird!")
+  parrot = "Squawk!"
+  return "Squawk!"
 end
   
