@@ -2,6 +2,9 @@
 # returns the phrase
 
 def parrot(bird = "Pretty bird!")
-  puts "Pretty bird!
+  puts "Pretty bird!"
+  bird
 end
+
+def parrot
 
