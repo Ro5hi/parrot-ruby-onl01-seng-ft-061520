@@ -5,10 +5,6 @@ def parrot
   parrot = "Squawk!"
 end
 
-def parrot
-  parrot = "Squawk!"
-  return "Squawk!"
-end
 
 def phrase("Pretty bird!")
   parrot = "Squawk!"
