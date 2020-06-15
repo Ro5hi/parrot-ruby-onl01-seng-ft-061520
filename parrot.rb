@@ -4,5 +4,5 @@
 def parrot
   parrot = "Squawk!"
   puts "Squawk!"
-  returns "Squawk!"
+  returns.reverse
 end
