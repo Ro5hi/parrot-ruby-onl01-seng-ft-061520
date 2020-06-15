@@ -3,6 +3,6 @@
 
 def parrot
   parrot = "Squawk!"
-  puts parrot
+  puts parrot.reverse
 return parrot
 end
