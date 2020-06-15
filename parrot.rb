@@ -10,4 +10,5 @@ def parrot
   return "Squawk!"
 end
 
-def Pretty
+def phrase = parrot
+  
