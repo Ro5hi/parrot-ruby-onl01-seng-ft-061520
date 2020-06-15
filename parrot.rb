@@ -7,4 +7,3 @@ def parrot(phrase = "Pretty bird!")
 end
 
 parrot("Pretty bird!)
-  
